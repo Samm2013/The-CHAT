@@ -1,17 +1,3 @@
-# My Project
-
-## Introduction
-
-This is a sample GitHub Markdown file to showcase different formatting options.
-
-### Features
-
-- **Bold text**
-- *Italic text*
-- ~~Strikethrough~~
-- `Inline code`
-
-## Code Blocks
 ## Lists
 
 1. First item
